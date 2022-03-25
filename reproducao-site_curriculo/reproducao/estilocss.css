@@ -1,0 +1,383 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+}
+
+header{
+width: 100%;
+  background-color: rgb(113, 255, 137);
+display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0;
+  font-family: "DM Sans", sans-serif;
+  position: fixed;
+  top: 0%;
+
+
+    
+}
+
+.cont.name{
+    display: flex;
+    align-items: center;
+
+}
+
+.menu li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.botao li{
+    list-style: none;
+    border-radius: 230px;
+    background-color: paleturquoise;
+}
+
+button{
+    border-radius: 230px;
+    background: transparent;    
+    padding: 15px 50px 15px 50px;
+    font-size: 15PX;
+    font-weight: bold;
+    border-color: #000000;
+    
+    
+    
+}
+
+
+
+
+body{
+    background-color: rgb(113, 255, 137);
+    overflow-x: hidden;
+
+}
+
+.divan{
+    background-color: rgb(113, 255, 137);;
+
+}
+#foto{
+width: 300px;
+height: 300px;
+background-color: rgb(255, 255, 255);;
+clip-path: circle();
+
+}
+.img1{ height: 100%;
+
+    
+}
+
+
+#borda{
+width: 300px;
+height: 300px;
+border: solid white;
+border-radius: 200px;
+padding: 10px;
+top: 100px;
+
+}
+
+.div1{
+  
+ margin-top: 274px;
+ margin-left: 300px;
+ background-color: rgb(113, 255, 137);
+
+
+}
+
+.hh1{
+    margin-top: -300px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    font-family: "Roboto Condensed", sans-serif;
+    FONT-SIZE: 70px;
+    margin-left: 200px;
+}
+
+.pp{
+    margin-top: 0px;
+    font-family: "Roboto Condensed", sans-serif;
+    FONT-SIZE: 30px;
+    margin-left: 743px;
+
+}
+
+.p2{
+    font-family: "DM Sans", sans-serif;
+    margin-left: 150px;
+    FONT-SIZE: 20px;
+}
+
+.p3{
+    font-family: "DM Sans", sans-serif;
+    margin-left: 150px;
+    FONT-SIZE: 20px;
+
+}
+
+.p4{
+    font-family: "DM Sans", sans-serif;
+    margin-left: 150px;
+    FONT-SIZE: 20px;
+    
+
+}
+
+.about-info-single{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    padding-right: 25%;
+    margin-left: -50px;
+    margin-top: -300px;
+    padding: 10%;
+    background-color: rgb(113, 255, 137);;
+
+  
+}
+
+
+
+.h1-2{
+    font-family: "Roboto Condensed", sans-serif;
+    FONT-SIZE: 50px;
+    margin-left: 50px;
+    padding: 3%;
+    background-color: white;
+}
+
+
+
+.div2{
+   
+    background-color: white;
+    
+
+}
+.div3{
+    height: 300px;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    font-family: "DM Sans", sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    height: 600px;
+    align-content: left;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 5px;
+    background-color: white;    
+    padding: 100px;
+    margin: 0%;
+    font-family: "DM Sans", sans-serif;
+    FONT-SIZE: 16px;
+    text-align: left;
+  }
+  
+  .grid-container > div {
+    background-color: white;    
+    text-align: center;
+    font-size: 16px;
+  }
+
+  .container-2 > div{
+    background-color: white;    
+    text-align: center;
+    font-size: 16px;
+    grid-gap: 30px;
+    grid-column-gap: 0px;
+  }
+
+  .container-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    background-color: white;    
+    margin: 0px;
+
+  }
+
+  .bb{
+        border-radius: 230px;
+        background: transparent;    
+        padding: 15px 50px 15px 50px;
+        font-size: 15PX;
+        font-weight: bold;
+        border-color: #000000;
+        text-align: center;
+        top: 2000px;
+        margin-left:865px;
+        
+        
+        
+    
+  }
+  .div4{
+      background-color: white;
+  }
+
+  .div5{
+background-color: white;
+
+
+  }
+
+ .imagem{
+    width: 800px;
+    height: 600px;
+    margin: 20px; 
+    padding: -100px;
+    background-color: white;
+    border-radius: 20px;
+ }
+
+ .botao{
+     background-color: white;
+ }
+
+ .pzin{
+    font-family: "DM Sans", sans-serif;
+    FONT-SIZE: 16px;
+    margin-left: 400px;
+    LINE-HEIGHT:25.6px;
+
+ }
+
+ .pzão{
+    font-family: "DM Sans", sans-serif;
+    FONT-SIZE: 26px;
+    margin-left: 400px;
+LINE-HEIGHT:41.6px;
+color: rgb(0, 155, 77);
+ }
+
+
+ .headline{
+    font-family: "Roboto Condensed", sans-serif;
+    FONT-SIZE: 50px;
+    margin-left: 400px;
+    padding: 3%;
+ }
+
+ .divgrid{
+     display: grid;
+     grid-template-columns: 1fr 1fr  1fr 1fr  1fr 1fr;
+     grid-template-rows:  auto auto auto auto auto;
+     flex-wrap: wrap;
+ }
+
+
+ .imggrid{
+     width: 196px;
+     height: 196px;
+     padding: 40px;
+ }
+.br{
+    background-color: white;
+}
+
+.altura{
+    height: 100px;
+    background-color: white;
+}
+
+.PARAGRAFO2{
+    text-align: center;
+}
+
+.adolfo > img{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);;
+    clip-path: circle();
+    margin-left: 80%;
+    top: 10px;
+    margin-bottom: 20%;
+
+}
+.adolfo{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-wrap: wrap;
+    grid-gap: 10px;
+    padding-left: 0%;
+    justify-content: space-around;
+
+
+}
+
+.adolfo>p{
+    margin-right: 80%;
+    margin-bottom: 20%;
+    margin-top: 30px;
+}
+
+footer{
+    color: white;
+    width: 100vmax;
+    height: 360px;
+    background: black;
+}
+
+span {
+    width: 0;
+}
+
+
+.calvino{
+    font-family: "DM Sans", sans-serif;
+    FONT-SIZE: 40px;
+    margin-left: 400px;
+    LINE-HEIGHT:50px;
+    color:rgb(113, 255, 137);
+}
+.bc{
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 160px;
+    background: transparent;
+    padding: 15px 50px 15px 50px;
+    font-size: 15PX;
+    font-weight: bold;
+    border-color: white;
+    text-align: center;
+    top: 2000px;
+    color: white;
+margin-left: 300px;
+}
+footer  {
+    height: 360px;
+    background: black;
+}
+
+.footertxt{
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    FONT-SIZE: 16px;
+    margin-left: 400px;
+    LINE-HEIGHT:25.6px;
+}
+
+footerflex{
+    display: flex;height: 360px;
+    background: black;justify-content: end;
+}
+
+.p10{
+    margin-top: 80px;
+    margin-left: 300px;
+}
