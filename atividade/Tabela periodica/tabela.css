@@ -1,0 +1,131 @@
+td {
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+a {
+    text-decoration: none;
+    background-color: none;
+    color: black;
+    border: none;
+    padding:none;
+}
+.titulo {
+    background-color: none;
+    font-family:verdana;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+  
+}
+
+  .botao { background-color: transparent;
+
+  }
+  .leg{font-size: 2.5em;}
+  .elemento{font-size: 2.5em;}
+ul {list-style: none; margin: 0; padding: 0; text-align: center;}
+.atomico {text-align: left; margin: 10px;}
+.number{text-align: right; margin: 10px;border-radius: 5px;width: 100px; height: 100px; background-color:#ec4141}
+.number2{text-align: upleft; margin: 3px;border-radius: 5px;width: 100px; height: 100px; background-color:#dfd0d0}
+.last {background-color: #dfd0d0;}
+.nobres{background-color: #f4958f;}
+.nmetais{background-color: #5d95c6;}
+.MA{background-color: #42b87b;}
+.MAT{background-color: #a7e710;}
+.MT{background-color: #fbaa55;}
+.SM{background-color: #f6afcf;}
+.OM{background-color: #d663bd;}
+.H{background-color: #01aff0;}
+.L{background-color: #ec4141;}
+.AC{background-color: #dfd0d0;}
+.hidrogenio{ background-color: #5d95c6;}
+.helio{background-color:#f4958f;}
+.litio{background-color: #42b87b}
+.sodio{background-color:#42b87b ;}
+.latanio{background-color:#ec4141 ;}
+.potasio{background-color:#42b87b;}
+.rubidio{background-color:#42b87b;}
+.cesio{background-color: #42b87b;}
+.francio{background-color: #42b87b;}
+.berilio{background-color: #a7e710;}
+.boro{background-color: #f6afcf;}
+.carbono{background-color:#5d95c6;}
+.nitrogenio{background-color: #5d95c6;}
+.oxigenio{background-color: #5d95c6;}
+.fluor{background-color:#01aff0 ;}
+.neonio{background-color: #f4958f;}
+.magnesio{background-color:#a7e710;}
+.aluminio{background-color:#d663bd ;}
+.silicio{background-color: #f6afcf;}
+.fosforo{background-color:#5d95c6;}
+.enxofre{background-color: #5d95c6;}
+.cloro{background-color: #01aff0;}
+.argonio{background-color: #f4958f;}
+.calcio{background-color: #a7e710;}
+.escandido{background-color:#fbaa55;}
+.titanio{background-color:#fbaa55;}
+.vanádio{background-color: #fbaa55;}
+.cromio{background-color: #fbaa55;}
+.manganes{background-color: #fbaa55;}
+.ferro{background-color: #fbaa55;}
+.cobalto{background-color: #fbaa55;}
+.niquel{background-color: #fbaa55;}
+.cobre{background-color: #fbaa55;}
+.zinco{background-color: #fbaa55;}
+.galio{background-color: #d663bd;}
+.germanio{background-color: #f6afcf;}
+.arsenio{background-color: #f6afcf}
+.selenio{background-color: #5d95c6;}
+.bromo{background-color: #01aff0;}
+.criptonio{background-color: #f4958f;}
+.estronico{background-color: #a7e710;}
+.itrio{background-color: #fbaa55;}
+.zirconio{background-color: #fbaa55;}
+.niobio{background-color: #fbaa55;}
+.molibdenio{background-color: #fbaa55;}
+.tecnecio{background-color: #fbaa55;}
+.rutenio{background-color: #fbaa55;}
+.rodio{background-color: #fbaa55;}
+.paladio{background-color: #fbaa55;}
+.prata{background-color: #fbaa55;}
+.cadmio{background-color: #fbaa55;}
+.indio{background-color: #d663bd;}
+.estanho{background-color: #d663bd;}
+.antimonio{background-color: #f6afcf;}
+.telurio{background-color: #f6afcf;}
+.iodo{background-color: #01aff0;}
+.xenenio{background-color: #f4958f;}
+.bario{background-color: #a7e710;}
+.hafnio{background-color: #fbaa55;}
+.tantalo{background-color: #fbaa55;}
+.tungstenio{background-color: #fbaa55;}
+.renio{background-color: #fbaa55;}
+.osmio{background-color: #fbaa55;}
+.iridio{background-color: #fbaa55;}
+.platina{background-color: #fbaa55;}
+.ouro{background-color: #fbaa55;}
+.mercurio{background-color: #fbaa55;}
+.talio{background-color: #d663bd;}
+.chumbo{background-color: #d663bd;}
+.bismuto{background-color: #f6afcf;}
+.polonio{background-color: #f6afcf;}
+.astato{background-color: #01aff0;}
+.radonio{background-color: #f4958f;}
+.radio{background-color: #a7e710;}
+.rutherfordio{background-color: #fbaa55;}
+.dubnio{background-color: #fbaa55;}
+.seaborgio{background-color: #fbaa55;}
+.bohrio{background-color: #fbaa55;}
+.hassio{background-color: #fbaa55;}
+.meitnerio{background-color: #fbaa55;}
+.darmstadtio{background-color: #fbaa55;}
+.roentgenio{background-color: #fbaa55;}
+.copernicio{background-color: #fbaa55;}
+.nihonio{background-color: #d663bd;}
+.flerovio{background-color: #d663bd;}
+.moscóvio{background-color: #d663bd;}
+.livermório{background-color: #d663bd;}
+.tenesso{background-color: #01aff0;}
+.oganessonio{background-color: #f4958f;}

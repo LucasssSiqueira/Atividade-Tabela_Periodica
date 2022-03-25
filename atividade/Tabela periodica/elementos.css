@@ -1,0 +1,255 @@
+h1 {
+background-color: aquamarine;
+}
+
+.nitrogenio{
+    background-color: azure;
+}
+
+.o{
+    background-color: rgb(62, 173, 173);
+}
+.f{
+    background-color: rgb(80, 149, 240);
+}
+
+.neo{
+    background-color: rgb(162, 159, 194);
+}
+.mag{
+    background-color: rgb(94, 124, 117);
+}
+.al{
+    background-color: rgb(9, 143, 112);
+}
+.silicio{
+    background-color: rgb(196, 61, 184);
+}
+
+.enxofre{
+    background-color: rgb(196, 61, 68);
+}
+.cloro{
+    background-color: rgb(87, 255, 157);
+}
+
+.arg{
+    background-color: rgb(87, 255, 109);
+}
+.sodio {
+    background-color: rgb(154, 156, 155);
+    }
+  .litio {
+        background-color: rgb(38, 92, 13);
+        }
+    .carbono{
+        background-color: rgb(229, 127, 255);
+        }
+        .boro {
+            background-color: rgb(233, 179, 78);
+            }
+        .berilio{background-color: rgb(150, 127, 255);}
+
+        .potasio{background-color: rgb(253, 132, 213);}
+
+        .esca{background-color: rgb(16, 121, 39);}
+
+        .cal{background-color: rgb(132, 253, 158);}
+
+        .tita{background-color: rgb(90, 138, 100);}
+
+        .vena{background-color: rgb(109, 129, 156);}
+
+        .cro{background-color: rgb(36, 67, 109);}
+
+        .manga{background-color: rgb(97, 160, 144);}
+
+        .fer{background-color: rgb(186, 201, 52);}
+
+        .col{background-color: rgb(255, 94, 0);}
+
+        .nil{background-color: rgb(204, 155, 151);}
+
+        .cob{background-color: rgb(163, 42, 31);}
+
+        .zin{background-color: rgb(166, 255, 0);}
+
+        .gal{background-color: rgb(207, 248, 130);}
+
+        .ger{background-color: rgb(130, 221, 248);}
+
+        .ar{background-color: rgb(0, 255, 85);}
+
+        .sel{background-color: rgb(190, 126, 185);}
+
+        .Br{background-color: rgb(255, 157, 247);}
+
+        .Kr{background-color: rgb(66, 184, 119);}
+
+        .Rub{background-color: rgb(166, 243, 201);}
+
+        .Est{background-color: rgb(231, 243, 166);}
+
+        .it{background-color: rgb(116, 136, 3);}
+
+        .Zi{background-color: rgb(68, 156, 95);}
+
+        .ni{background-color: rgb(79, 104, 100);}
+
+        .Mo{background-color: rgb(70, 155, 113);}
+
+        .tec{background-color: rgb(88, 84, 150);}
+
+        .rut{background-color: rgb(0, 183, 255);}
+
+        .rod{background-color: rgb(255, 0, 255);}
+
+        .pad{background-color: rgb(116, 93, 93);}
+
+        .pra{background-color: rgb(196, 75, 53);}
+
+        .cad{background-color: rgb(9, 187, 39);}
+
+        .ind{background-color: rgb(82, 151, 151);}
+
+        .est{background-color: rgb(0, 108, 248);}
+
+        .ant{background-color: rgb(0, 240, 248);}
+
+        .telu{background-color: rgb(115, 228, 153);}
+
+        .io{background-color: rgb(0, 140, 255);}
+
+        .xe{background-color: rgb(201, 106, 245);}
+
+        .ces{background-color: rgb(245, 106, 129);}
+
+        .bar{background-color: rgb(139, 14, 35);}
+
+        .ha{background-color: rgb(208, 170, 243);}
+
+        .tan{background-color: rgb(103, 148, 207);}
+
+
+        .tu{background-color: rgb(89, 180, 255);}
+
+        .ren{background-color: rgb(89, 236, 255);}
+
+        .osm{background-color: rgb(89, 92, 255);}
+
+
+        .iri{background-color: rgb(180, 89, 255);}
+
+        .pla{background-color: rgb(255, 211, 89);}
+
+        .ou{background-color: rgb(175, 141, 46);}
+
+        .mer{background-color: rgb(46, 175, 126);}
+
+
+        .ta{background-color: rgb(182, 238, 255);}
+
+        .chu{background-color: rgb(0, 255, 13);}
+
+        .bis{background-color: rgb(23, 128, 28);}
+
+        .pol{background-color: rgb(17, 0, 255);}
+
+        .ast{background-color: rgb(0, 140, 255);}
+
+
+        .radon{background-color: rgb(255, 38, 0);}
+
+        .fr{background-color: rgb(0, 255, 255);}
+
+        .rad{background-color: rgb(255, 0, 55);}
+
+        .ruth{background-color: rgb(192, 64, 92);}
+
+        .dub{background-color: rgb(64, 145, 192);}
+
+
+
+        .sea{background-color: rgb(0, 255, 179);}
+
+
+        .bh{background-color: rgb(165, 243, 239)}
+
+        .hs{background-color: rgb(6, 136, 129)}
+
+        .mei{background-color: rgb(6, 136, 71)}
+
+
+        .dar{background-color: rgb(45, 182, 113)}
+
+        .roe{background-color: rgb(123, 255, 0)}
+
+        .cop{background-color: rgb(50, 182, 45)}
+
+        .nio{background-color: rgb(167, 219, 166)}
+
+        .fl{background-color: rgb(63, 82, 62)}
+
+        .mc{background-color: rgb(255, 240, 157)}
+
+        .liv{background-color: rgb(108, 189, 83)}
+
+        .ts{background-color: rgb(253, 255, 130)}
+
+        .oga{background-color: rgb(130, 255, 157)}
+
+        .lat{background-color: rgb(130, 255, 157)}
+
+        .pr{background-color: rgb(222, 255, 130)}
+
+        .neo{background-color: rgb(158, 25, 80)}
+
+        .pm{background-color: rgb(255, 181, 212)}
+
+
+        .sa{background-color: rgb(201, 11, 90)}
+
+        .eu{background-color: rgb(78, 11, 201)}
+
+        .ter{background-color: rgb(201, 172, 255)}
+
+
+        .gad{background-color: rgb(218, 163, 80)}
+
+        .di{background-color: rgb(191, 255, 172)}
+
+        .hol{background-color: rgb(56, 170, 22)}
+
+        .bio{background-color: rgb(140, 153, 136)}
+
+        .tulio{background-color: rgb(231, 190, 8)}
+
+        .ite{background-color: rgb(134, 111, 4)}
+
+        .ac{background-color: rgb(0, 255, 76)}
+
+        .to{background-color: rgb(123, 250, 161)}
+
+
+        .pro{background-color: rgb(1, 80, 24)}
+
+        .ur{background-color: rgb(0, 163, 46)}
+
+        .plu{background-color: rgb(187, 255, 0)}
+
+
+        .cúrio{background-color: rgb(0, 255, 136)}
+
+        .berq{background-color: rgb(147, 255, 210)}
+
+        .calif{background-color: rgb(0, 165, 96)}
+
+        .ein{background-color: rgb(58, 163, 119)}
+
+        .fer{background-color: rgb(93, 255, 166)}
+
+        .mend{background-color:rgb(93, 255, 93)}
+
+        .nob{background-color:rgb(220, 255, 93)}
+
+        .lau{background-color:rgb(228, 93, 255)}
