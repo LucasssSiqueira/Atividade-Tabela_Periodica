@@ -1,3 +1,3 @@
-# Atividade Tabela Periódiaca
-    Atividade usando table (html) e estilização com css
+# hmtl-css
+   Atividades com o uso de html e css
  
